@@ -2,5 +2,5 @@ plugins { id 'com.android.application' }
 android {
  namespace 'com.anenji.monitor'
  compileSdk 34
- defaultConfig { applicationId 'com.anenji.monitor'; minSdk 26; targetSdk 33; versionCode 2; versionName '2.0' }
+ defaultConfig { applicationId 'com.anenji.monitor'; minSdk 26; targetSdk 33; versionCode 3; versionName '2.1' }
 }
